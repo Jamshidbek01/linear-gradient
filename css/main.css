@@ -20,4 +20,5 @@ button {
     font-size: 30px;
     border: none;
     border-radius: 20px;
+    cursor: pointer;
 }
